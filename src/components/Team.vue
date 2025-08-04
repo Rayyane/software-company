@@ -84,31 +84,31 @@ const teamMembers = [
   {
     name: 'Marcus Wilson',
     role: 'Chief Technology Officer',
-    image: 'src/assets/img/person/person-m-3.webp',
+    image: 'assets/img/person/person-m-3.webp',
     bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.',
   },
   {
     name: 'Sophia Reynolds',
     role: 'Product Designer',
-    image: 'src/assets/img/person/person-f-5.webp',
+    image: 'assets/img/person/person-f-5.webp',
     bio: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
   },
   {
     name: 'Daniel Chen',
     role: 'Marketing Specialist',
-    image: 'src/assets/img/person/person-m-8.webp',
+    image: 'assets/img/person/person-m-8.webp',
     bio: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
   },
   {
     name: 'Olivia Thompson',
     role: 'Lead Developer',
-    image: 'src/assets/img/person/person-f-9.webp',
+    image: 'assets/img/person/person-f-9.webp',
     bio: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.',
   },
   {
     name: 'Jason Parker',
     role: 'UI/UX Designer',
-    image: 'src/assets/img/person/person-m-12.webp',
+    image: 'assets/img/person/person-m-12.webp',
     bio: 'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni.',
   },
 ]
