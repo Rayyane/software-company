@@ -14,7 +14,7 @@
             <h2>Meet Our Experts</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum dui sed justo finibus, in gravida felis iaculis.
-              Suspendisse potenti.
+              Suspendisse potenti..
             </p>
             <div class="team-navigation">
               <button ref="prevEl" class="team-nav-prev">
